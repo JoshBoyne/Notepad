@@ -1,6 +1,6 @@
 A basic Notepad Clone that replicates notepad functionality and file operations
 ---------------------
-####**Screenshots**
+#### **Screenshots**
 
 <img width="984" height="736" alt="image" src="https://github.com/user-attachments/assets/2b242d26-1534-48ce-8b61-2ced38c210c1" />
 
